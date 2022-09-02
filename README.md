@@ -11,7 +11,7 @@ I am a computer science graduate with second class honors, with a master's degre
 * ✉️  You can contact me at [peterakan@gmail.com](mailto:peterakan@gmail.com)
 * 🧠  I'm learning CSS
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm bane the arc enemy batman don't tell anyone.
+* ⚡  I'm bane the arc enemy of batman don't tell anyone.
 
 <a href="https://www.twitter.com/bane360_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/bane360_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
