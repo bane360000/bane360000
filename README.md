@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @bane360000
-- 👀 I’m interested in front-end technologies like html, css, javascript,bootstrap,react,angular e.t.c
-- 💞️ I’m looking to collaborate on html projects at the moment like landing pages, e-mail programming
-
 <a href="https://www.twitter.com/bane360_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/bane360_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/bane360000" target="_blank" rel="noreferrer"><img
