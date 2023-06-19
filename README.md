@@ -8,7 +8,7 @@ I am a computer science graduate with second class honors, with a master's degre
 
 * 🌍  I'm based in Owerri, Imo State, Nigeria.
 * ✉️  You can contact me at [peterakan@gmail.com](mailto:peterakan@gmail.com).
-* 🧠  I'm learning Javascript.
+* 🧠  I'm currently learning Javascript.
 * 🤝  I'm open to collaborating on interesting projects.
 * ⚡  I'm bane the arc enemy of batman, don't tell anyone.
 
