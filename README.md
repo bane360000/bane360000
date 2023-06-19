@@ -7,9 +7,9 @@ Front-end developer| Software Engineer | SEO Specialist
 I am a computer science graduate with second class honors, with a master's degree in view (M.sc Computer Information Technology), and a certified google digital marketer with a specialty in SEO with 5 years of experience working with Fiverr as a seller. I have laernt html and css, i have built projects on these tehnologies online/offline. I am currently learning the front-end stack(HTML>HTML5>CSS>CSS3>Javascript>React). Currently learning Es6 javascript. I will be open and enthusiastic about working on projects around the mentioned front-end technologies.
 
 * 🌍  I'm based in Owerri, Imo State, Nigeria.
-* ✉️  You can contact me at [peterakan@gmail.com](mailto:peterakan@gmail.com)
-* 🧠  I'm learning CSS
-* 🤝  I'm open to collaborating on interesting projects
+* ✉️  You can contact me at [peterakan@gmail.com](mailto:peterakan@gmail.com).
+* 🧠  I'm learning Javascript.
+* 🤝  I'm open to collaborating on interesting projects.
 * ⚡  I'm bane the arc enemy of batman, don't tell anyone.
 
 <a href="https://www.twitter.com/bane360_" target="_blank" rel="noreferrer"><img
